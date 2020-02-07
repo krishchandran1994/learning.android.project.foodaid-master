@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FoodAid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_pick_up">PickUp</string>
+    <string name="appbar_scrolling_view_behavior">abc</string>
+    <string name="signup">Signup</string>
+    <string name="user_id">Email</string>
+    <string name="enter_password_here">Enter Password here</string>
+    <string name="login">login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="enter_email_here">Enter email here</string>
+    <string name="pwd">Pswd</string>
+    <string name="phone">Phone</string>
+    <string name="nonvegetarian">Non-vegetarian</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="food_type">Food type</string>
+    <string name="address">Address</string>
+    <string name="password">pswd</string>
+    <string name="password_">Password :</string>
+    <string name="enter_your_login_id">Enter your login id</string>
+    <string name="login_">Login</string>
+    <string name="login__">Login :</string>
+    <string name="logout">Logout</string>
+    <string name="you_are_a_click_away_from_donating_the_edible_food">You are a click away from donating the edible food.</string>
+    <string name="donate">DONATE</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="click_the_button_to_confirm_the_pickup">Click the button to confirm the pickup</string>
+    <string name="yes">YES</string>
+</resources>
